@@ -402,4 +402,4 @@ jobs:
           name: ${{ inputs.kernelsu_variant }}_kernel-${{ env.CONFIG }}
           path: |
             *AnyKernel3.zip
-            *.img
+           # *.img
